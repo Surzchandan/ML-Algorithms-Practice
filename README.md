@@ -1,1 +1,1 @@
-# SVM-Kernels
+# Machine Learning Algorithms Practicals
